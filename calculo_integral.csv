@@ -1,33 +1,33 @@
-Nombre,Email,Atencion_Participacion,Cuaderno_Jupyter,Parcial,Quiz,Cuaderno_Fisico,Asistencia,Seguimiento
-AGUDELO MORENO RENATO DIRNEY,renato.agudelo@udea.edu.co,1,0,,1,1,8,
-AMARIS FERNANDEZ SEBASTIAN CAMILO,sebastian.amaris@udea.edu.co,2,0,,2,1,-4,
-ARENAS HERAZO GABRIEL ENRIQUE,gabriel.arenas@udea.edu.co,-2,0,,5,1,-4,
-AYALA MENDOZA MARISOL YACIRA,marisol.ayala@udea.edu.co,2,0,,1,1,4,
-BERTEL RODELO MICHELL SMIT,michell.bertel@udea.edu.co,2,1,1,"2,5",1,8,
-BULA VERGARA MARIA PAULA,paula.bula@udea.edu.co,-3,3,2,1,1,8,
-CANTILLO ENSUCHO DANIEL,daniel.cantillo@udea.edu.co,2,0,1,5,1,8,
-CERVANTES DURAN ANGELICA,angelica.cervantes@udea.edu.co,2,3,,5,1,8,
-GALLEGO TEJADA JUAN ESTEBAN,juanesteban.gallego@udea.edu.co,2,0,,1,1,4,
-GUERRA NORIEGA YONATHAN,yonathan.guerra@udea.edu.co,2,1,,4,1,8,
-HINCAPIE CASTRO JOHAN SEBASTIAN,johan.hincapie@udea.edu.co,2,2,,3,1,8,
-HUMANEZ SANCHEZ CAMILO,camilo.humanez@udea.edu.co,2,3,,"1,5",1,8,
-IBAnEZ MORENO FRANCISCO LUIS,francisco.ibanez@udea.edu.co,2,4,1,"1,5",1,8,
-LONDONO CUADRADO CRISTIAN ALBERTO,cristian.londono3@udea.edu.co,2,0,1,1,1,4,
-LOZANO HOLGUIN LIZETH JOHANA,lizeth.lozano@udea.edu.co,2,0,"2,5",5,1,4,
-MASS MIRANDA RIVALDO JOSE,rivaldo.mass@udea.edu.co,3,0,,5,1,4,
-MIRANDA MARTINEZ CARLOS ANDRES,carlosa.miranda@udea.edu.co,2,2,,2,1,4,
-MONTERROSA SOTO ABRIL,a.monterrosa@udea.edu.co,2,2,,"1,5",1,8,
-NORIEGA JIMENEZ GABRIELA,gabriela.noriega@udea.edu.co,2,0,,"2,5",1,4,
-PEREZ REYES IVAN DARIO,ivan.perezr@udea.edu.co,2,0,,1,1,4,
-PEREZ THERAN ERLINDA,erlinda.perez@udea.edu.co,2,2,1,3,1,4,
-PINEDA ROMERO YOSMERI,yosmeri.pineda@udea.edu.co,1,2,,1,1,8,
-QUINONEZ CERVANTES MARIANA,mariana.quinonezc@udea.edu.co,-2,0,2,4,1,4,
-QUIROZ DURAN JUAN MANUEL,juanmanuel.quiroz@udea.edu.co,2,0,,1,1,4,
-RAMOS PEREZ YANINE,y.ramos@udea.edu.co,2,1,1,1,1,4,
-RIVAS HOYOS ESTEFANIA,estefania.rivash@udea.edu.co,2,3,,1,1,8,
-ROSILLO TEJADA VANESA,v.rosillo@udea.edu.co,1,2,,"1,5",1,8,
-SANCHEZ PADILLA SILVESTRE,silvestre.sanchez@udea.edu.co,-1,2,2,3,1,4,
-SILVA ROYERO MAILY CRISTINA,maily.sroyero@udea.edu.co,2,2,,1,1,8,
-USUGA GEORGE JHON ESTIVEN,estiven.usuga@udea.edu.co,2,2,,"1,5",1,4,
-Profe marco,,,,,,,,
-,,Atencion_Participacion,Cuaderno_Jupyter,parcial,quiz,cuaderno físico,Asistencia,Seguimiento
+Nombre,Email,AttentionParticipation,JupyterNotebook,Partial,Quiz,HandwrittenNotebook,Assistance
+AGUDELO MORENO RENATO DIRNEY,renato.agudelo@udea.edu.co,1,0,3,"1,2",1,20
+AMARIS FERNANDEZ SEBASTIAN CAMILO,sebastian.amaris@udea.edu.co,2,0,"2,2",2,1,16
+ARENAS HERAZO GABRIEL ENRIQUE,gabriel.arenas@udea.edu.co,-2,0,"2,2",5,1,16
+AYALA MENDOZA MARISOL YACIRA,marisol.ayala@udea.edu.co,2,1,"0,6",1,1,20
+BERTEL RODELO MICHELL SMIT,michell.bertel@udea.edu.co,2,1,"1,2","2,5",1,20
+BULA VERGARA MARIA PAULA,paula.bula@udea.edu.co,-3,3,2,"1,2",1,20
+CANTILLO ENSUCHO DANIEL,daniel.cantillo@udea.edu.co,2,2,5,5,1,20
+CERVANTES DURAN ANGELICA,angelica.cervantes@udea.edu.co,2,3,"1,2",5,1,20
+GALLEGO TEJADA JUAN ESTEBAN,juanesteban.gallego@udea.edu.co,2,0,1,"1,2",1,20
+GUERRA NORIEGA YONATHAN,yonathan.guerra@udea.edu.co,2,1,5,"4,4",1,20
+HINCAPIE CASTRO JOHAN SEBASTIAN,johan.hincapie@udea.edu.co,2,2,"3,2",3,1,20
+HUMANEZ SANCHEZ CAMILO,camilo.humanez@udea.edu.co,2,3,5,"1,7",1,20
+IBAnEZ MORENO FRANCISCO LUIS,francisco.ibanez@udea.edu.co,2,4,2,2,1,20
+LONDONO CUADRADO CRISTIAN ALBERTO,cristian.londono3@udea.edu.co,2,0,"1,1",1,1,20
+LOZANO HOLGUIN LIZETH JOHANA,lizeth.lozano@udea.edu.co,2,0,3,5,1,16
+MASS MIRANDA RIVALDO JOSE,rivaldo.mass@udea.edu.co,3,0,5,5,1,20
+MIRANDA MARTINEZ CARLOS ANDRES,carlosa.miranda@udea.edu.co,2,2,"3,3",3,1,20
+MONTERROSA SOTO ABRIL,a.monterrosa@udea.edu.co,2,2,"1,2","1,5",1,20
+NORIEGA JIMENEZ GABRIELA,gabriela.noriega@udea.edu.co,2,0,"1,2","2,5",1,20
+PEREZ REYES IVAN DARIO,ivan.perezr@udea.edu.co,2,0,2,"1,2",1,16
+PEREZ THERAN ERLINDA,erlinda.perez@udea.edu.co,2,2,"1,2",3,1,20
+PINEDA ROMERO YOSMERI,yosmeri.pineda@udea.edu.co,1,2,5,1,1,16
+QUINONEZ CERVANTES MARIANA,mariana.quinonezc@udea.edu.co,-2,0,"2,2",4,1,20
+QUIROZ DURAN JUAN MANUEL,juanmanuel.quiroz@udea.edu.co,2,0,"0,7",1,1,20
+RAMOS PEREZ YANINE,y.ramos@udea.edu.co,2,1,2,"1,2",1,20
+RIVAS HOYOS ESTEFANIA,estefania.rivash@udea.edu.co,2,3,"0,2",1,1,20
+ROSILLO TEJADA VANESA,v.rosillo@udea.edu.co,1,2,5,5,1,20
+SANCHEZ PADILLA SILVESTRE,silvestre.sanchez@udea.edu.co,-1,3,5,5,1,20
+SILVA ROYERO MAILY CRISTINA,maily.sroyero@udea.edu.co,2,2,"0,4",1,1,20
+USUGA GEORGE JHON ESTIVEN,estiven.usuga@udea.edu.co,2,2,4,2,1,16
+Profe marco,,,,,,,
+,,Atencion_Participacion,Cuaderno_Jupyter,parcial,quiz,cuaderno físico,Asistencia

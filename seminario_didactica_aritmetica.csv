@@ -1,17 +1,17 @@
-Nombre,Email,Atencion_Participacion,Cuaderno_Manuscrito,Asistencia,parcial,quiz
-ARIAS ARRIETA FREDY,fredy.arias1@udea.edu.co,1,1,-1,,1
-BOHORQUEZ NAVARRO DINA ESTELA,dina.bohorquez@udea.edu.co,-1,1,-2,,2
-CARDONA RAMIREZ SARA PAULINA,sara.cardona7@udea.edu.co,4,4,4,,5
-CASTANEDA REINOZA DIEGO,diego.castaneda2@udea.edu.co,-1,2,-4,,1
-ESPEJO PEREZ LUIS DAVID,david.espejo@udea.edu.co,-1,1,-1,,5
-HERNANDEZ GUERRA FABIAN ALEJANDRO,fabian.hernandezg@udea.edu.co,3,1,-4,,5
-LUCAS FLOREZ NAYELIS NATALIA,natalia.lucas@udea.edu.co,-1,2,-1,,3
-MARTINEZ BALLESTEROS VICTOR HUGO,victorhugo.martinez@udea.edu.co,4,4,4,,2
-MARTINEZ MENDOZA JAIR MIGUEL,jair.mmendoza@udea.edu.co,4,3,4,,2
-OCHOA ARRIETA JUAN ANDRES,juan.ochoaa1@udea.edu.co,-1,2,-5,,"4,5"
-RODRIGUEZ VERONA CARLOS MARIO,carlos.rodriguez11@udea.edu.co,2,1,-4,,1
-RUIZ CARDENAS LUIS MARIO,luismario.ruiz@udea.edu.co,-1,1,-4,3,3
-SIERRA OLIVEROS OMAR DARIO,omar.sierra1@udea.edu.co,-1,2,-5,,3
-SUAREZ RESTREPO MARIA ANGELICA,mangelica.suarez@udea.edu.co,5,4,4,,5
-TAMAYO DE LA OSSA SARA,sara.tamayod@udea.edu.co,3,2,-2,,1
-el profesor Marco,,,,-4,,
+Nombre,Email,Atencion_Participacion,Cuaderno_Manuscrito,Asistencia,parcial,quiz,Seguimiento,
+ARIAS ARRIETA FREDY,fredy.arias1@udea.edu.co,1,1,-1,5,1,,
+BOHORQUEZ NAVARRO DINA ESTELA,dina.bohorquez@udea.edu.co,-1,1,-2,5,2,,
+CARDONA RAMIREZ SARA PAULINA,sara.cardona7@udea.edu.co,4,4,4,5,5,,nayelis natalia y luis david faltanron a las 4 horas del 6 de marzo 
+CASTANEDA REINOZA DIEGO,diego.castaneda2@udea.edu.co,-1,2,-4,5,1,,
+ESPEJO PEREZ LUIS DAVID,david.espejo@udea.edu.co,-1,1,-5,5,5,,
+HERNANDEZ GUERRA FABIAN ALEJANDRO,fabian.hernandezg@udea.edu.co,3,1,-4,5,5,,
+LUCAS FLOREZ NAYELIS NATALIA,natalia.lucas@udea.edu.co,-1,2,-5,5,3,,
+MARTINEZ BALLESTEROS VICTOR HUGO,victorhugo.martinez@udea.edu.co,4,4,4,5,2,,
+MARTINEZ MENDOZA JAIR MIGUEL,jair.mmendoza@udea.edu.co,4,3,4,5,2,,
+OCHOA ARRIETA JUAN ANDRES,juan.ochoaa1@udea.edu.co,-1,2,-5,5,"4,5",,
+RODRIGUEZ VERONA CARLOS MARIO,carlos.rodriguez11@udea.edu.co,2,1,-4,5,1,,
+RUIZ CARDENAS LUIS MARIO,luismario.ruiz@udea.edu.co,-1,1,-4,3,3,,
+SIERRA OLIVEROS OMAR DARIO,omar.sierra1@udea.edu.co,-1,2,-5,5,3,,
+SUAREZ RESTREPO MARIA ANGELICA,mangelica.suarez@udea.edu.co,5,4,4,5,5,,
+TAMAYO DE LA OSSA SARA,sara.tamayod@udea.edu.co,3,2,-2,5,1,,
+el profesor Marco,,,,-4,,,,
