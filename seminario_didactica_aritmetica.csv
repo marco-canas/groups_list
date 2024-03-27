@@ -1,16 +1,16 @@
 Nombre,Email,AttentionParticipation,HandwrittenNotebook,Assistance,Partial,JupyterNotebook,Quiz,FollowUp,
-ARIAS ARRIETA FREDY,fredy.arias1@udea.edu.co,2,1,-1,5,,1,,
-BOHORQUEZ NAVARRO DINA ESTELA,dina.bohorquez@udea.edu.co,-1,1,-3,5,,2,,
-CARDONA RAMIREZ SARA PAULINA,sara.cardona7@udea.edu.co,5,4,4,5,,5,,nayelis natalia y luis david faltanron a las 4 horas del 6 de marzo 
-CASTANEDA REINOZA DIEGO,diego.castaneda2@udea.edu.co,-1,2,-4,5,,1,,Luis david faltó a las 4 horas del 13 de marzo. 
-ESPEJO PEREZ LUIS DAVID,david.espejo@udea.edu.co,-2,1,-14,5,,5,,Luis david faltó a las 4 horas del 20 de marzo. El día sobre las ecuaciones cuadráticas y los ángulos determinados por dos rectas y una transversal
-HERNANDEZ GUERRA FABIAN ALEJANDRO,fabian.hernandezg@udea.edu.co,3,1,-4,5,,5,,
-LUCAS FLOREZ NAYELIS NATALIA,natalia.lucas@udea.edu.co,-1,2,-5,5,,3,,
-MARTINEZ BALLESTEROS VICTOR HUGO,victorhugo.martinez@udea.edu.co,4,4,-4,5,,2,,
-MARTINEZ MENDOZA JAIR MIGUEL,jair.mmendoza@udea.edu.co,4,3,-4,5,,2,,
-OCHOA ARRIETA JUAN ANDRES,juan.ochoaa1@udea.edu.co,-1,2,-9,5,,"4,5",,
-RODRIGUEZ VERONA CARLOS MARIO,carlos.rodriguez11@udea.edu.co,2,1,-4,5,,1,,
-RUIZ CARDENAS LUIS MARIO,luismario.ruiz@udea.edu.co,-1,1,-4,3,,3,,
-SIERRA OLIVEROS OMAR DARIO,omar.sierra1@udea.edu.co,-1,2,-5,5,,3,,
-SUAREZ RESTREPO MARIA ANGELICA,mangelica.suarez@udea.edu.co,5,4,-4,5,,5,,
-TAMAYO DE LA OSSA SARA,sara.tamayod@udea.edu.co,3,2,-6,5,,1,,
+ARIAS ARRIETA FREDY,fredy.arias1@udea.edu.co,2,1,-1,5,0,1,,
+BOHORQUEZ NAVARRO DINA ESTELA,dina.bohorquez@udea.edu.co,-1,1,-3,5,0,2,,
+CARDONA RAMIREZ SARA PAULINA,sara.cardona7@udea.edu.co,5,4,4,5,0,5,,nayelis natalia y luis david faltanron a las 4 horas del 6 de marzo 
+CASTANEDA REINOZA DIEGO,diego.castaneda2@udea.edu.co,-1,2,-4,5,0,1,,Luis david faltó a las 4 horas del 13 de marzo. 
+ESPEJO PEREZ LUIS DAVID,david.espejo@udea.edu.co,-2,1,-14,5,0,5,,Luis david faltó a las 4 horas del 20 de marzo. El día sobre las ecuaciones cuadráticas y los ángulos determinados por dos rectas y una transversal
+HERNANDEZ GUERRA FABIAN ALEJANDRO,fabian.hernandezg@udea.edu.co,3,1,-4,5,0,5,,
+LUCAS FLOREZ NAYELIS NATALIA,natalia.lucas@udea.edu.co,-1,2,-5,5,0,3,,
+MARTINEZ BALLESTEROS VICTOR HUGO,victorhugo.martinez@udea.edu.co,4,4,-4,5,0,2,,
+MARTINEZ MENDOZA JAIR MIGUEL,jair.mmendoza@udea.edu.co,4,3,-4,5,0,2,,
+OCHOA ARRIETA JUAN ANDRES,juan.ochoaa1@udea.edu.co,-1,2,-9,5,0,"4,5",,
+RODRIGUEZ VERONA CARLOS MARIO,carlos.rodriguez11@udea.edu.co,2,1,-4,5,0,1,,
+RUIZ CARDENAS LUIS MARIO,luismario.ruiz@udea.edu.co,-1,1,-4,3,0,3,,
+SIERRA OLIVEROS OMAR DARIO,omar.sierra1@udea.edu.co,-1,2,-5,5,0,3,,
+SUAREZ RESTREPO MARIA ANGELICA,mangelica.suarez@udea.edu.co,5,4,-4,5,0,5,,
+TAMAYO DE LA OSSA SARA,sara.tamayod@udea.edu.co,3,2,-6,5,0,1,,
