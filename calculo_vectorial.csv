@@ -1,12 +1,12 @@
 Nombre,Email,Assistance,AttentionParticipation,HandwrittenNotebook,JupyterNotebook,Quiz,Partial
-ARROYAVE ECHAVARRIA LAURA SOFIA,sofia.arroyave@udea.edu.co,16,1,2,2,5,5
-ATENCIA LOBO MARIANA,mariana.atencia@udea.edu.co,14,5,2,5,4,5
-BASILIO CELESTINO ANGEL,angel.basilio@udea.edu.co,16,5,2,1,2,5
-CANCHILA RIVERA OSCAR DAVID,oscar.canchila@udea.edu.co,-8,5,2,1,4,5
-HERRERA GONZALEZ NATALIA ANDREA,natalia.herrerag@udea.edu.co,0,0,0,0,0,0
-MARTINEZ BERNAL CAMILA,camila.martinezb@udea.edu.co,12,5,2,1,"4,2",5
-SALGADO PERDOMO DUVAN ANDRES,duvan.salgado@udea.edu.co,12,5,2,1,5,5
-SANTOS ALEMAN MARIA JOSE,maria.santos1@udea.edu.co,0,0,0,0,0,0
-SOTO GONZALEZ LUIS FERNANDO,luis.sotog@udea.edu.co,16,5,2,1,5,5
-TREJO CORDOBA DUVAN STEVEN,duvans.trejo@udea.edu.co,,,,,,
-VARGAS SALINAS LEONARDO,leonardo.vargas1@udea.edu.co,,,,,,
+ARROYAVE ECHAVARRIA LAURA SOFIA,sofia.arroyave@udea.edu.co,,,,2,,
+ATENCIA LOBO MARIANA,mariana.atencia@udea.edu.co,,,,2,5,
+BASILIO CELESTINO ANGEL,angel.basilio@udea.edu.co,,,,1,,
+CANCHILA RIVERA OSCAR DAVID,oscar.canchila@udea.edu.co,,,,1,,
+HERRERA GONZALEZ NATALIA ANDREA,natalia.herrerag@udea.edu.co,,,,,,
+MARTINEZ BERNAL CAMILA,camila.martinezb@udea.edu.co,,,,1,,
+SALGADO PERDOMO DUVAN ANDRES,duvan.salgado@udea.edu.co,,,,,,
+SANTOS ALEMAN MARIA JOSE,maria.santos1@udea.edu.co,,,,,,
+SOTO GONZALEZ LUIS FERNANDO,luis.sotog@udea.edu.co,,,,2,,
+TREJO CORDOBA DUVAN STEVEN,duvans.trejo@udea.edu.co,-4,,,,,
+VARGAS SALINAS LEONARDO,leonardo.vargas1@udea.edu.co,,,,2,,
