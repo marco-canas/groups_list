@@ -1,16 +1,16 @@
-Nombre,Email,Assistance,AttentionParticipation,HandwrittenNotebook,Quiz,Partial,JupyterNotebook
-ACEVEDO CASTILLO MAIRA DAYANA,maira.acevedo@udea.edu.co,,,,1,2,
-ACOSTA RUIZ YIRLENA,y.acosta@udea.edu.co,4,1,,2,2,3
-GUERRERO SANTOS ISABELLA,isabella.guerrero@udea.edu.co,,,,,,
-LEGUIA MEJIA ESTEFANY,estefany.leguia@udea.edu.co,-4,,,,,
-LLANO DAVILA DORIAN ANDRES,dorian.llano@udea.edu.co,,,,1,2,
-MARTINEZ BUENO DIEGO ESTEBAN,diego.martinez5@udea.edu.co,,4,,1,1,2
+Nombre,Email,Assistance,AttentionParticipation,Task_1_2₃,Quiz,Partial,JupyterNotebook
+ACEVEDO CASTILLO MAIRA DAYANA,maira.acevedo@udea.edu.co,12,4,3,5,4,2
+ACOSTA RUIZ YIRLENA,y.acosta@udea.edu.co,12,1,0,5,4,4
+GUERRERO SANTOS ISABELLA,isabella.guerrero@udea.edu.co,-4,3,0,0,0,0
+LEGUIA MEJIA ESTEFANY,estefany.leguia@udea.edu.co,12,2,1,5,2,0
+LLANO DAVILA DORIAN ANDRES,dorian.llano@udea.edu.co,16,1,1,1,2,0
+MARTINEZ BUENO DIEGO ESTEBAN,diego.martinez5@udea.edu.co,16,4,1,5,3,2
 MORENO BENJUMEA JULIETH FERNANDA,julieth.moreno@udea.edu.co,-4,2,1,2,1,2
-NUNEZ FERNANDEZ TULIO MANUEL,tuliom.nunezf@udea.edu.co,,,,3,3,
-PATERNINA SOLORZANO MARIA ISABEL,maria.paternina2@udea.edu.co,,,,2,3,
-PEREZ GARCIA ALEJANDRO,alejandro.perez10@udea.edu.co,,2,,2,3,
-QUINTERO CARDONA DEVISON MATEO,mateo.quintero3@udea.edu.co,-4,,,,,
-SERENO GUEVARA MARIA CELESTE,mceleste.sereno@udea.edu.co,-4,,,,,
-SIERRA SERPA YENIFER,y.sierra@udea.edu.co,,,,,,1
-VIDAL QUINTERO ELIACIB,eliacib.vidal@udea.edu.co,4,4,,5,5,3
-VILLADIEGO GALLEGO JORGE ANDRES,andres.villadiego@udea.edu.co,4,2,,5,4,
+NUNEZ FERNANDEZ TULIO MANUEL,tuliom.nunezf@udea.edu.co,16,1,0,4,3,0
+PATERNINA SOLORZANO MARIA ISABEL,maria.paternina2@udea.edu.co,-4,1,0,2,3,0
+PEREZ GARCIA ALEJANDRO,alejandro.perez10@udea.edu.co,-1,3,1,4,4,2
+QUINTERO CARDONA DEVISON MATEO,mateo.quintero3@udea.edu.co,-4,1,0,0,0,0
+SERENO GUEVARA MARIA CELESTE,mceleste.sereno@udea.edu.co,10,1,0,4,2,0
+SIERRA SERPA YENIFER,y.sierra@udea.edu.co,16,4,1,5,4,2
+VIDAL QUINTERO ELIACIB,eliacib.vidal@udea.edu.co,16,4,1,5,5,3
+VILLADIEGO GALLEGO JORGE ANDRES,andres.villadiego@udea.edu.co,16,4,0,4,5,0
