@@ -1,9 +1,9 @@
-Nombre,Email,Assistance,Task123,JupyterNotebook,Quiz,Partial,ParticipationAttention,FollowUp
-BARANOA HERNANDEZ NATHALIA ANDREA,nathalia.baranoa@udea.edu.co,16,1,,,5,1,
-GARCIA MERCADO ANDERSON JAVID,andersonj.garcia@udea.edu.co,16,,1,,,,
-LOBO CONTRERAS VIVIANA ANDREA,viviana.loboc@udea.edu.co,16,,,,,2,
-PAGUENA GRAJALES YULISA DEL CARMEN,yulisa.paguena@udea.edu.co,16,1,,,,,
-PEREZ DIAZ ALEJANDRA,alejandra.perezd@udea.edu.co,16,,,,,1,
-ROJAS BALDOVINO YERLIS JOHANA,yerlis.rojas@udea.edu.co,16,,,,,1,
-RUEDA ACOSTA VALENTINA,valentina.ruedaa@udea.edu.co,16,,,,,,
-SAMPAYO MORENO SARA LISETH,sara.sampayo@udea.edu.co,16,,,,,3,
+Nombre,Email,Assistance,Task123,JupyterNotebook,Quiz,Partial,AttentionParticipation,FollowUp
+BARANOA HERNANDEZ NATHALIA ANDREA,nathalia.baranoa@udea.edu.co,16,1,0,,5,1,
+GARCIA MERCADO ANDERSON JAVID,andersonj.garcia@udea.edu.co,16,1,1,,,,
+LOBO CONTRERAS VIVIANA ANDREA,viviana.loboc@udea.edu.co,16,1,0,4,5,2,
+PAGUENA GRAJALES YULISA DEL CARMEN,yulisa.paguena@udea.edu.co,16,1,0,,,,
+PEREZ DIAZ ALEJANDRA,alejandra.perezd@udea.edu.co,16,1,0,,,1,
+ROJAS BALDOVINO YERLIS JOHANA,yerlis.rojas@udea.edu.co,16,1,0,,,1,
+RUEDA ACOSTA VALENTINA,valentina.ruedaa@udea.edu.co,16,1,0,,,,
+SAMPAYO MORENO SARA LISETH,sara.sampayo@udea.edu.co,16,1,0,4,5,3,
